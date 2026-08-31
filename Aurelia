@@ -1,0 +1,26 @@
+# Aurelia
+
+background = #1A1A1A
+foreground = #EAEAEA
+#foreground = #EA549F
+
+cursor-color = #EB2A88
+selection-background = #EAEAEA
+selection-foreground = #EB2A88
+
+palette = 0=#000000
+palette = 1=#579BD5
+palette = 2=#1AD69C
+palette = 3=#714896
+palette = 4=#00B6D6
+palette = 5=#E92888
+palette = 6=#EAEAEA
+palette = 7=#CE9178
+palette = 8=#303030
+palette = 9=#9CDCFE
+palette = 10=#77e88f
+palette = 11=#975EAB
+palette = 12=#2BC4E2
+palette = 13=#fc1b83
+palette = 14=#EAEAEA
+palette = 15=#e9ad95
